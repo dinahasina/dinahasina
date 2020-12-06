@@ -1,2 +1,2 @@
-<h1 align="center">:cherry_blossom: Akory enao Visitor </h1>
+<h1 align="center">:heavy_dollar_sign: Akory enao Visitor </h1>
 
